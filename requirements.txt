@@ -1,0 +1,5 @@
+streamlit==1.20.0
+pandas==1.5.3
+Plost==0.2.5
+requests==2.28.2
+openai==0.27.0

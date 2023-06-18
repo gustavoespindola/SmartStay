@@ -10,7 +10,7 @@ SmartStay is an AI-powered recommendation system designed to provide personalize
 - Trustworthy Recommendations: SmartStay prioritizes transparency and provides explanations for its recommendations, enabling users to understand the reasoning behind each suggestion.
 
 ## Installation
-- Clone the repository: git clone https://github.com/your-username/SmartStay.git
+- Clone the repository: git clone https://github.com/gustavoespindola/SmartStay.git
 - Install the required dependencies: pip install -r requirements.txt
 - Set up the necessary API keys for OpenAI and APIFY API TOKEN.
 
